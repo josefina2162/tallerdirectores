@@ -1,0 +1,130 @@
+.directganadores{
+  margin-left: 30px;
+}
+
+.directores-ganadores1{
+margin-top: 550px;
+}
+
+
+.linea3{
+  color: #F4D03F;
+  width: 200px;
+  margin-left: 27px;
+  margin-top: 8px;
+}
+.alfonso{
+
+  margin-top: 35px;
+  margin-left: 27px;
+}
+
+.destacado-alfonso{
+
+margin-left: 27px;
+top: 50px;
+}
+
+.text-alfonso{
+  font-family: 'Asap', sans-serif;
+  font-weight: 400;
+  color: #fff;
+  font-size: 19px;
+  line-height: 20pt;
+  margin-left: 27px;
+  margin-top: 16px;
+}
+
+
+
+.martin{
+float: right;
+margin-top: -351px;
+margin-right: 833px;
+}
+.destacado-martin{
+  float: right;
+  margin-right: 920px;
+  margin-top: -114px;
+}
+.text-martin{
+  font-family: 'Asap', sans-serif;
+  font-weight: 400;
+  color: #fff;
+  font-size: 19px;
+  line-height: 20pt;
+  margin-left: 27px;
+  margin-top: 16px;
+  float: right;
+  margin-right: 920px;
+  margin-top: -52px;
+}
+
+.esmerald{
+  float: right;
+  margin-top: -351px;
+  margin-right: 567px;
+}
+.destacado-esmerald{
+  float: right;
+  margin-right: 650px;
+  margin-top: -114px;
+}
+.text-esmerald{
+  font-family: 'Asap', sans-serif;
+  font-weight: 400;
+  color: #fff;
+  font-size: 19px;
+  line-height: 20pt;
+  margin-left: 27px;
+  margin-top: 16px;
+  float: right;
+  margin-top: -52px;
+  margin-right: 650px;
+}
+
+.katy{
+  float: right;
+  margin-top: -351px;
+  margin-right: 301px;
+}
+.destacado-katy{
+  float: right;
+  margin-right: 380px;
+  margin-top: -114px;
+}
+.text-katy{
+  font-family: 'Asap', sans-serif;
+  font-weight: 400;
+  color: #fff;
+  font-size: 19px;
+  line-height: 20pt;
+  margin-left: 27px;
+  margin-top: 16px;
+  float: right;
+  margin-top: -52px;
+  margin-right: 385px;
+}
+
+.sam{
+  float: right;
+  margin-top: -351px;
+  margin-right: 32px;
+}
+.destacado-sam{
+  float: right;
+  margin-right: 115px;
+  margin-top: -114px;
+}
+.text-sam{
+    font-family: 'Asap', sans-serif;
+    font-weight: 400;
+    color: #fff;
+    font-size: 19px;
+    line-height: 20pt;
+    margin-left: 27px;
+    margin-top: 16px;
+    float: right;
+    margin-top: -52px;
+    margin-right: 140px;
+}

@@ -1,0 +1,66 @@
+contenedor-especiales{
+  position: relative;
+
+}
+
+.damien{
+  margin-top: 27px;
+  margin-left: 27px;
+}
+.info1{
+position: absolute;
+left: 45px;
+top: 600px;
+}
+.nombre1{
+  font-family: 'Asap', sans-serif;
+  font-weight: 400;
+  color: #fff;
+  font-size: 19px;
+  line-height: 20pt;
+  margin-left: 35px;
+  margin-top: 16px;
+}
+
+.alejandro{
+  float: right;
+  margin-top: -443px;
+  margin-right: 485px;
+}
+.info2{
+  position: absolute;
+  left: 510px;
+  top: 600px;
+}
+.nombre2{
+  font-family: 'Asap', sans-serif;
+  font-weight: 400;
+  color: #fff;
+  font-size: 19px;
+  line-height: 20pt;
+  margin-left: 493px;
+  margin-top: -26px;
+}
+
+.guillermo{
+  float: right;
+margin-top: -443px;
+margin-right: 27px;
+}
+.info3{
+  position: absolute;
+  float: right;
+  left: 970px;
+  top: 600px;
+}
+.nombre3{
+  font-family: 'Asap', sans-serif;
+  font-weight: 400;
+  color: #fff;
+  font-size: 19px;
+  line-height: 20pt;
+  float: right;
+  position: relative;
+  top: -26px;
+  right: 240px;
+}
